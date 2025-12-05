@@ -70,7 +70,7 @@ int main()
 
     bank_customer customer(name, account_type, account_number);
 
-    int option;
+        int option;
     do
     {
         cout << "\n--- Bank Menu ---" << endl;
